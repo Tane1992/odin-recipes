@@ -1,0 +1,5 @@
+this is my recipes web page for the odin project course if you see a bunch of commits its because im still trying to figure out how to use git lol
+i watched a few tutorials and did some research on learning html and css still on a journey to learn javascrypt but im not in no rush learning git and how to save my projects and clone repos is all ive been doing for the past few days
+its a lot to wrap my head around because ive never been this deep in coding before git hub is still a learnig curve for me just incase you are wondering im learning through the odin project so far i have learned how to activate WSL2
+kinda of a rubbish looking browser when i open with live server in vs code but its algood. my html and css knowledge is ok still alot to learn this project (odin-recipes) doesnt really show my skills kinda just following along with the course i can do more with css but i didnt feel
+think it was needed in this exercise i know about flex and grid sort of. i can make a nice looking login form ill try and push it on to github just incase anyone wants to see its pretty basic but im proud of it haha anyway wish me luck <3
