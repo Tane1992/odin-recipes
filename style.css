@@ -1,0 +1,20 @@
+body {
+  height: 100vh;
+  background-image: linear-gradient(lightblue,lightpink);
+  font-family: sans-serif,system-ui;
+}
+
+#heading {
+  text-align: center;
+  font-size: 50px;
+  margin: 0;
+  padding: 0;
+  border: solid 1px;
+  box-shadow: inset 1px 1px 4px;
+}
+
+img {
+  height: 300px;
+  width: 350px;
+  border-radius: 20px;
+}
